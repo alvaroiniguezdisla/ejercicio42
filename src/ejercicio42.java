@@ -1,5 +1,5 @@
 
-public class ejercicio43 {
+public class ejercicio42 {
     public static boolean buscar(int e, int[] array) {
         int i = array.length / 2;
         while (i < array.length && i >= 0) {
